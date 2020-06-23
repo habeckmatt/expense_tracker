@@ -42,3 +42,6 @@ of income your expenses are.
 
 # Installation
 npm install expense_tracker
+
+# License
+MIT © Matt Habeck
