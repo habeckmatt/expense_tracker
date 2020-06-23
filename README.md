@@ -13,7 +13,7 @@ input was updated.
 ![Expense Tracker homepage](C:\Users\Matt\Desktop\portfolio\dist\img\projects)
 
 # Tech used
-**Built with**
+**Built with**  
   *HTML
   *SASS
   *JavaScript
