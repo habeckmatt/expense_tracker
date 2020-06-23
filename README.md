@@ -3,10 +3,10 @@ The expense tracker is able to accept incomes and expenses as input and
 provide the user with their available budget in a given month. It also
 will provide the user with what percent of income each expense is.
 
-# Movitation
+# Motivation
 This projects exists because I wanted to expand my JavaScript skills by 
 setting user data via the DOM elements.
-It was challenging tring to get each DOM element to update as the user 
+It was challenging trying to get each DOM element to update as the user 
 input was updated.
 
 # Screenshots
@@ -19,10 +19,10 @@ input was updated.
 &nbsp;&nbsp;-JavaScript  
   
 # Features
-Percentage of income calulator. It will update real-time with what percent
+Percentage of income calculator. It will update real-time with what percent
 of income your expenses are.
 
-# Code Exampe
+# Code Example
     var budgetController = (function() {
 
       var Expense = function(id, description, value) {
