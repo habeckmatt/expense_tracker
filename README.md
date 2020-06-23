@@ -14,9 +14,9 @@ input was updated.
 
 # Tech used
 **Built with**  
-  *HTML  
-  *SASS  
-  *JavaScript  
+&nbsp;&nbsp;-HTML  
+&nbsp;&nbsp;-SASS  
+&nbsp;&nbsp;-JavaScript  
   
 # Features
 Percentage of income calulator. It will update real-time with what percent
