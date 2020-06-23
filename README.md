@@ -10,7 +10,7 @@ It was challenging tring to get each DOM element to update as the user
 input was updated.
 
 # Screenshots
-![Expense Tracker homepage](C:\Users\Matt\Desktop\portfolio\dist\img\projects)
+![Expense Tracker homepage](expense_tracker.jpg)
 
 # Tech used
 **Built with**  
