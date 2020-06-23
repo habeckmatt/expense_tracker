@@ -23,22 +23,22 @@ Percentage of income calulator. It will update real-time with what percent
 of income your expenses are.
 
 # Code Exampe
-var budgetController = (function() {
+    var budgetController = (function() {
 
-    var Expense = function(id, description, value) {
-        this.id  = id;
-        this.description = description;
-        this.value = value;
-        this.percentage = -1;
-    };
+      var Expense = function(id, description, value) {
+          this.id  = id;
+          this.description = description;
+          this.value = value;
+          this.percentage = -1;
+      };
 
-    Expense.prototype.calcPercentage = function(totalIncome) {
-        if (totalIncome > 0) {
-            this.percentage = Math.round((this.value / totalIncome) * 100);
-        } else {
-            this.percentage = -1;
-        }
-    };
+      Expense.prototype.calcPercentage = function(totalIncome) {
+          if (totalIncome > 0) {
+              this.percentage = Math.round((this.value / totalIncome) * 100);
+          } else {
+              this.percentage = -1;
+          }
+      };
 
 # Installation
 npm install expense_tracker
